@@ -6,6 +6,7 @@ var icons = {
   "example_polygon":[0,0,210,210,"M100,10 40,198 190,78 10,78 160,198z "],
   "example_polyline":[0,0,100,100,"M0,100 50,25 50,75 100,0 "],
   "example_rect":[0,0,100,100,"M10.0 10.0 H90.0 V90.0 H10.0 V10.0z "],
+  "koher":[0,0,24,24,"M4.0 7.0 H20.0 V10.0 H4.0 V7.0z M4.0 14.0 H20.0 V17.0 H4.0 V14.0z "],
   }
 
 async function getIcon(name) {
